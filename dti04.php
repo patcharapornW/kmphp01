@@ -12,8 +12,8 @@ echo $dataC[4] ;
 
 //Associative Array
 $faculty = ["as" => "Asts Sci", "en" => "Engineer", "bu" => "Business"];
-$suject = ["th" => "Thai", "en" => "English", "jp" => "Japan"];
+$subject = ["th" => "Thai", "en" => "English", "jp" => "Japan"];
    
 echo "<br/>" . $faculty["en"]; 
 echo "<br/>" . $faculty["bu"]; 
-echo "<br/>" . $faculty["jp"]; 
+echo "<br/>" . $subject["jp"]; 
